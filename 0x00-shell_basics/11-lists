@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al ./ /alx-s* /boot
+ls -an . .. /boot
