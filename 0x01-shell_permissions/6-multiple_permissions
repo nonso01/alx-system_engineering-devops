@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp root hello
+chmod 755 hello
